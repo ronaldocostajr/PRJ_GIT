@@ -1,0 +1,215 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 48.86598790204102
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1421.4386429009896,
+            "y": 76.140044014705609
+          },
+          "nodeIndex": "Varas do Trabalho",
+          "size": {
+            "height": 591,
+            "width": 466
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 941.06565126808823,
+            "y": 1474.3591380136859
+          },
+          "nodeIndex": "Ramos de Atividade",
+          "size": {
+            "height": 144,
+            "width": 331
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 183.07646262619642,
+            "y": 895.16935081639667
+          },
+          "nodeIndex": "Classes Processuais",
+          "size": {
+            "height": 207,
+            "width": 318
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 347.675198267578,
+            "y": 1364.5492599608929
+          },
+          "nodeIndex": "Magistrados",
+          "size": {
+            "height": 173.89294671173275,
+            "width": 230.20610888163083
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 323.99999999999989,
+            "y": 505.20892070624916
+          },
+          "nodeIndex": "Itens",
+          "size": {
+            "height": 233,
+            "width": 326
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 391.47755031454335,
+            "y": 59.06787556664699
+          },
+          "nodeIndex": "Períodos",
+          "size": {
+            "height": 383,
+            "width": 291
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 635.99999999999989,
+            "y": 778.20892070624916
+          },
+          "nodeIndex": "Dados",
+          "size": {
+            "height": 587.57100489643165,
+            "width": 547.35370511841086
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 780.41844088078756,
+            "y": 180.96313384370779
+          },
+          "nodeIndex": "Processos",
+          "size": {
+            "height": 275.37419748710073,
+            "width": 276
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 6.5047305054738445,
+            "y": 347.9064473560245
+          },
+          "nodeIndex": "Medidas Derivadas",
+          "size": {
+            "height": 187,
+            "width": 270
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1098.4386429009896,
+            "y": 0
+          },
+          "nodeIndex": "Ordem do Seletor de Numeração",
+          "size": {
+            "height": 174,
+            "width": 283
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 733.80505050505076,
+            "y": 5.0505050505050484
+          },
+          "nodeIndex": "Assuntos",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 2620.5,
+            "y": 0
+          },
+          "nodeIndex": "Opcoes",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 2971.5,
+            "y": 0
+          },
+          "nodeIndex": "Atualizacao",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 1121.0599231887668,
+            "y": 253.49231224183779
+          },
+          "nodeIndex": "Reus",
+          "size": {
+            "height": 160.06830456071447,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 1111.7421277015208,
+            "y": 438.26682899643038
+          },
+          "nodeIndex": "Autor",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3248.9952694945259,
+            "y": 757.17956900684294
+          },
+          "nodeIndex": "Medidas",
+          "nodeLineageTag": "ae15906e-ef38-467d-ac5a-133d1a6e5d59",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 65.4852206490712,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

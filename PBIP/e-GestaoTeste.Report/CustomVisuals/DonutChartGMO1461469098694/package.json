@@ -1,0 +1,48 @@
+{
+  "build": "13.0.1700.543",
+  "version": "1.5.1",
+  "author": {
+    "name": "Microsoft Marketing IT/GMO",
+    "email": "pbicvsupport@microsoft.com"
+  },
+  "licenseTerms": "https://powerbi.microsoft.com/en-us/visuals-gallery-terms",
+  "privacyTerms": "https://www.microsoft.com/privacystatement/default.aspx",
+  "resources": [
+    {
+      "resourceId": "rId1",
+      "sourceType": 0,
+      "file": "resources/Donut_Chart.js"
+    },
+    {
+      "resourceId": "rId2",
+      "sourceType": 1,
+      "file": "resources/Donut_Chart.css"
+    },
+    {
+      "resourceId": "rId3",
+      "sourceType": 3,
+      "file": "resources/icon.png"
+    }
+  ],
+  "visual": {
+    "guid": "DonutChartGMO1461469098694",
+    "name": "Donut Chart",
+    "displayName": "Donut Chart",
+    "version": "1.5.1",
+    "description": "A doughnut chart represent data as slices, where the size of each slice is determined by the slice value relative to the sum of the values of all slices. Each data series that you plot in a doughnut chart adds a ring to the chart. These rings have different colors for easy representation of the data slices in doughnut chart.\n",
+    "supportUrl": "http://community.powerbi.com/"
+  },
+  "images": {
+    "icon": {
+      "resourceId": "rId3"
+    }
+  },
+  "code": {
+    "javaScript": {
+      "resourceId": "rId1"
+    },
+    "css": {
+      "resourceId": "rId2"
+    }
+  }
+}
