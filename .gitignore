@@ -1,3 +1,13 @@
+# Projetos POWER BI
+*.pbix
+*.abf
+*.csv
+*.txt
+*.xls
+*.xlsx
+/PBIX
+/Dados
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
